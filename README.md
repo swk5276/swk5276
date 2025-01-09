@@ -1,6 +1,6 @@
 👨‍💻 프로젝트 정리
-- [다색상 원단 유사도 측정 시스템](https://github.com/inu-ese-capstone-design-team-YSN)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
-- [정류장 운행 정보 웹 어플리케이션]([https://github.com/my-organization](https://github.com/Data-Driven-Web-Application))![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+- [ 다색상 원단 유사도 측정 시스템 ](https://github.com/inu-ese-capstone-design-team-YSN)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+- [ 정류장 운행 정보 웹 어플리케이션 ](https://github.com/Data-Driven-Web-Application)![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 - 
 ## 🛠️ Tech Stack
 - **Languages**:  
