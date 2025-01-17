@@ -1,4 +1,4 @@
-## 🌟 My Projects
+## 🌟 프로젝트 페이지
 - [ 다색상 원단 유사도 측정 시스템 ](https://github.com/inu-ese-capstone-design-team-YSN) 
     <br/>![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
     &emsp;![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
