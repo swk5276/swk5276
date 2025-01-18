@@ -1,3 +1,5 @@
+## 🌟 안녕하세요 AI서비스를 다루고 싶은 백엔드 개발자 김성웅입니다
+
 ## 🌟 개발 프로젝트 페이지
 - [ 다색상 원단 유사도 측정 시스템 ](https://github.com/inu-ese-capstone-design-team-YSN) (팀 프로젝트/4인/24.01.01 ~ 24.06.30)
     <br/>&emsp; 언어 : &emsp; ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
