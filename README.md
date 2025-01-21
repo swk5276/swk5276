@@ -9,7 +9,7 @@
   
 - [ 인천대학교 자연과학대학정류장 운행 정보 웹 어플리케이션 ](https://github.com/Data-Driven-Web-Application) 
 (개인 프로젝트/24.09.01 ~ 24.12.10)
-    <br/>&emsp; CI*CD파이프라인 구축& 배포 &emsp;/&emsp; DB
+    <br/>&emsp; CI*CD파이프라인 구축& 배포 &emsp;/&emsp; DB활용
     <br/>&emsp; 개발 언어 : &emsp; ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
     <br/>&emsp; DB&프레임워크 : &emsp; ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square) &emsp;![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
   
