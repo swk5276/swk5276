@@ -27,10 +27,10 @@
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) &emsp; ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
 - **프레임워크 및 라이브러리**:  
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square) &emsp; ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)  &emsp;  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+  ![Django](https://img.shields.io/badge/-Django-000000?logo=django&logoColor=white&style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square) &emsp; ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)  &emsp;  
 
 - **데이터베이스**:  
   ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
 
 - **Tools**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
