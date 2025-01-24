@@ -1,4 +1,4 @@
-## 👋 안녕하세요 AI서비스를 다루고 싶은 백엔드 개발자 김성웅입니다
+ ## 👋 안녕하세요 AI서비스를 다루고 싶은 백엔드 개발자 김성웅입니다
 
 ## 🌟 개발 프로젝트 페이지
 - [ 다색상 원단 색상 유사도 검출 시스템 ](https://github.com/inu-ese-capstone-design-team-YSN)
@@ -17,7 +17,7 @@
 - [ AI 한글 글자 인식 프로그램 ](https://github.com/swk5276/Hand_recognition_Using_AI.git) 
 (개인 프로젝트 / 23.09.10 ~ 24.12.05)
     <br/>&emsp; 개발 언어 : &emsp; ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-    <br/>&emsp; 기술&프레임워크 : &emsp; ![Django](https://img.shields.io/badge/-Django-000000?logo=django&logoColor=white&style=flat-square ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=flat-square) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?logo=python&logoColor=white&style=flat-square)
+    <br/>&emsp; 기술&프레임워크 : &emsp; ![Django](https://img.shields.io/badge/-Django-000000?logo=django&logoColor=white&style=flat-square) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white&style=flat-square) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?logo=python&logoColor=white&style=flat-square)
 
 
 
