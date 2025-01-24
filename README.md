@@ -3,6 +3,7 @@
 ## 🌟 개발 프로젝트 페이지
 - [ 다색상 원단 색상 유사도 검출 시스템 ](https://github.com/inu-ese-capstone-design-team-YSN)
   (팀 프로젝트/4인/24.01.01 ~ 24.06.30)
+    <br/>&emsp; AI 기반 이미지 처리 / 머신 비전 / 데이터 전처리
     <br/>&emsp; 개발 언어 : &emsp; ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
     <br/>&emsp; 기술&프레임워크 : &emsp; ![AI](https://img.shields.io/badge/-AI-0096FF?logo=artificial-intelligence&logoColor=white&style=flat-square)
 ![CNN](https://img.shields.io/badge/-CNN-FF6F00?style=flat-square) &emsp;![DBSCAN](https://img.shields.io/badge/-DBSCAN-4CAF50?style=flat-square) &emsp;![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
