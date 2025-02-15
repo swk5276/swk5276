@@ -34,3 +34,6 @@
 
 - **Tools**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+
+## 🛠️ 개발 기록 블로그
+![Blog](https://swk5276.tistory.com/)
