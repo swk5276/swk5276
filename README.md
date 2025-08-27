@@ -5,8 +5,8 @@
   (개인 프로젝트 / 24.07.01 ~ 진행 중)  
   <br/>&emsp; 다중 AI 에이전트를 활용하여 음성 → 텍스트 → 장면 추출 → 이미지/영상/음악 생성까지 자동화하는 스토리북 제작 파이프라인  
   <br/>&emsp; 주요 기능 : STT 앙상블(Whisper), 텍스트 정제, 장면/대본 추출, 이미지/음악 합성, 최종 영상 합성  
-  <br/>&emsp; 개발 언어 : &emsp; ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-  <br/>&emsp; 기술&프레임워크 : &emsp; ![LangChain](https://img.shields.io/badge/-LangChain-1E90FF?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![MoviePy](https://img.shields.io/badge/-MoviePy-FF6F00?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)  
+  <br/>&emsp; 개발 언어 : &emsp; ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+  <br/>&emsp; 기술&프레임워크 : &emsp; ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square) ![MoviePy](https://img.shields.io/badge/-MoviePy-FF6F00?style=flat-square) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)  
   <br/>&emsp; 연구/개발 키워드 : &emsp; 멀티모달 AI · 에이전트 오케스트레이션 · STT 정제 · 영상 합성 자동화  
 
 - [ 다색상 원단 색상 유사도 검출 시스템 ](https://github.com/inu-ese-capstone-design-team-YSN)  
