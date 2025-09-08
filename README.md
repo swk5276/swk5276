@@ -1,7 +1,8 @@
 ## 👋 안녕하세요! 지원자 김성웅입니다
 ## 🌟 Project List
 
-- [ 멀티 에이전트 기반 스토리 생성 프로젝트 ](https://github.com/swk5276/ko_storyagent_st2)  
+- [ 멀티 에이전트 기반 스토리 생성 프로젝트 ](https://github.com/swk5276/ko_storyagent_st2)
+- [백엔드 서버](https://github.com/swk5276/stroy_book_server)  
   (개인 프로젝트 / 24.07.01 ~ 진행 중)  
   <br/>&emsp; 다중 AI 에이전트를 활용하여 음성 → 텍스트 → 장면 추출 → 이미지/영상/음악 생성까지 자동화하는 스토리북 제작 파이프라인  
   <br/>&emsp; 주요 기능 : STT 앙상블(Whisper), 텍스트 정제, 장면/대본 추출, 이미지/음악 합성, 최종 영상 합성  
