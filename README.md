@@ -1,5 +1,5 @@
-## 👋 안녕하세요! AI개발자 김성웅입니다
-## 🌟 Project List
+## 👋 안녕하세요! AI엔지니어 김성웅입니다
+### 🌟 프로젝트 목록
 
 - 멀티 에이전트 기반 스토리 생성 프로젝트[AI서버](https://github.com/swk5276/ko_storyagent_st2) [백엔드 서버](https://github.com/swk5276/stroy_book_server)
 (개인 프로젝트 / 25.05.20 ~ 25.08.27)  
